@@ -10,7 +10,7 @@ Implement Behaviour driven development using Java.
 
 01) Clone the project
 
-		https://github.com/himash79/Behaviour-driven-development.git
+		https://github.com/himash79/Behavior-driven-development.git
     
 03) Clean and build the project using maven
 
